@@ -1,0 +1,36 @@
+{
+  "name": "a11yes",
+  "version": "1.0.0",
+  "description": "JavaScript Accessibility Tool for improving website accessibility according to WCAG requirements",
+  "main": "a11yes.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "accessibility",
+    "a11yes",
+    "wcag",
+    "bitv",
+    "javascript",
+    "web-accessibility"
+  ],
+  "author": "RozumBunch",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rozumbunch/a11yes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rozumbunch/a11yes/issues"
+  },
+  "homepage": "https://github.com/rozumbunch/a11yes#readme",
+  "files": [
+    "a11yes.js",
+    "a11yes.css"
+  ],
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "jest": "^29.6.1"
+  }
+} 
